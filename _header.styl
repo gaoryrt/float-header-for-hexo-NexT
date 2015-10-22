@@ -1,0 +1,72 @@
+// Header
+// --------------------------------------------------
+.header { 
+  //顶栏的背景颜色
+  background: $whitesmoke;
+  //顶栏下面的阴影
+  border-bottom: 2px solid $grey;
+  //使顶栏的 z 高度高于其他元素
+  z-index:999;
+  //悬浮
+  position: fixed;
+  //位置修正
+  margin-top: -43px;
+  //顶栏高度
+  height: 40px;
+  //宽度修正
+  width:100%;
+
+  +mobile() {
+    height: 40px;
+    position: relative;
+    margin-top: 30px;
+    
+  }
+}
+.header-inner {
+  margin-top: -30px;
+  padding: 30px 0;
+  
+
+  +mobile() {
+    padding: 0px;
+  }
+}
+
+.site-meta {
+  float: left;
+  margin-left: -20px;
+
+  +mobile() {
+    margin-left: 10px;
+    padding-top: 2px;
+  }
+
+  .brand {
+    padding: 2px 1px;
+    background: none;
+
+    +mobile() { display: block; }
+  }
+
+  .logo { display: none; }
+
+  .site-title {
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: 
+    +mobile() { line-height: 34px; }
+  }
+}
+
+
+.logo-line-before,
+.logo-line-after {
+  display: none;
+  
+}
+
+.use-motion {
+  .logo-line-before i { left: -100%; }
+  .logo-line-after i { right: -100%; }
+}
