@@ -13,9 +13,7 @@
   margin-bottom: 0px;
   margin-top: 0px;
 
-  +tablet() {
-    padding-top: 6px;
-  }
+  
  
   +mobile() {
     margin: 0;
@@ -27,6 +25,7 @@
 
   .menu-item {
     margin: 0;
+
     +mobile() { display: block; }
   }
 
@@ -36,8 +35,14 @@
     border: none;
     transition-property: background;
 
+
+
     +mobile() {
-      text-align: left;
+      background-color: $whitesmoke;
+      margin-right: -10px;
+      padding: 10px 10px;
+      text-align: center;
+      font-size: 20px;
     }
 
     /*&:hover { background: #e1e1e1; }*/
@@ -57,4 +62,9 @@
   +mobile() { float: none; }
 }
 
-.menu-item-icon { display: none; }
+.menu-item-icon { display: none; 
+  +mobile() {
+    display: inline;
+    
+  }
+}
