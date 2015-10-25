@@ -6,7 +6,7 @@
 ![before](http://ww3.sinaimg.cn/large/a243ad6cjw1exaa8z4itgj20se0qztay.jpg)  
 *origin NexT Mist*
 ***
-![after](http://ww3.sinaimg.cn/large/a243ad6cjw1exbcaug7u9j21990ovdj2.jpg)  
+![after](http://ww1.sinaimg.cn/large/a243ad6cjw1exaafdoclzj217t0qv0vz.jpg)  
 *After*
 ***
 # 安装 install
@@ -22,7 +22,7 @@ Done.
 # 已知的问题 problems
 1. `menu`栏在某段固定浏览器宽度（tablet）下不能做到上下对齐。原因未知。
 2. `site-nav site-nav-on`栏（mobile 时展开的 menu 栏）失去了原有的延展特性，变为了遮盖下方内容。原因未知。
-3. ~~`site-nav site-nav-on`栏（mobile 时展开的 menu 栏）没有背景颜色。 暂时不解决，见#2。~~  已经解决。
+3. `site-nav site-nav-on`栏（mobile 时展开的 menu 栏）没有背景颜色。暂时不解决，见#2。
 
 
 
