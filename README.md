@@ -20,9 +20,9 @@ Rename` Mist` folder to ` Mist_without_float_haeder`
 Rename`float_header_for_hexo_NexT` to ` Mist`  
 Done.  
 # 已知的问题 problems
-~~1. `menu`栏在某段固定浏览器宽度（tablet）下不能做到上下对齐。原因未知。~~原来还有`desktop-large`这个大小
-2. `site-nav site-nav-on`栏（mobile 时展开的 menu 栏）失去了原有的延展特性，变为了遮盖下方内容。原因未知。
-~~3. `site-nav site-nav-on`栏（mobile 时展开的 menu 栏）没有背景颜色。暂时不解决，见#2。~~改好了
+~~1. `menu`栏在某段固定浏览器宽度（tablet）下不能做到上下对齐。原因未知。~~原来还有`desktop-large`这个大小  
+2. `site-nav site-nav-on`栏（mobile 时展开的 menu 栏）失去了原有的延展特性，变为了遮盖下方内容。原因未知。  
+~~3. `site-nav site-nav-on`栏（mobile 时展开的 menu 栏）没有背景颜色。暂时不解决，见#2。~~改好了  
 
 
 
