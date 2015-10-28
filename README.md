@@ -6,7 +6,7 @@
 ![before](http://ww3.sinaimg.cn/large/a243ad6cjw1exaa8z4itgj20se0qztay.jpg)  
 *origin NexT Mist*
 ***
-![after](http://ww1.sinaimg.cn/large/a243ad6cjw1exaafdoclzj217t0qv0vz.jpg)  
+[click to see](gaoryrt.github.io)
 *After*
 ***
 # 安装 install
