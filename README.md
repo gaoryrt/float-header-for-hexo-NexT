@@ -24,5 +24,23 @@ Done.
 2. `site-nav site-nav-on`栏（mobile 时展开的 menu 栏）失去了原有的延展特性，变为了遮盖下方内容。原因未知。  
 ~~3. `site-nav site-nav-on`栏（mobile 时展开的 menu 栏）没有背景颜色。暂时不解决，见#2。~~改好了  
 
+***
+# 贴一下我自己的custom.styl文件
+位置： `next/source/css/_variables/custom.styl`  
+```
+$content-desktop = 600px  // 修改成你期望的宽度
+$content-desktop-large = 600px // 当视窗超过 1600px 后的宽度
 
+$font-family-sans-serif   = "PingFang", Verdana, sans-serif
+$font-family-serif        = "PingFang", Verdana, sans-serif
+$font-family-monospace    = "PingFang", Verdana, sans-serif
+$font-family-chinese      = "PingFang", Verdana, sans-serif
+$font-family-base         = "PingFang", Verdana, sans-serif
+$font-family-headings     = "Cambria Bold", cambria, Verdana, sans-serif
+$font-family-posts        = $font-family-base
 
+$code-font-family = "Input Mono", "PT Mono", Consolas, Monaco, Menlo, monospace // 代码字体
+$font-size-base = 16px;
+$font-size-large = 16px;
+$font-size-small = 13px;
+```
