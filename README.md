@@ -12,12 +12,12 @@
 # 安装 install
 ```
 cd /hexo/themes/next/source/css/_schemes
-git clone https://github.com/gaoryrt/float_header_for_hexo_NexT.git
+git clone https://github.com/gaoryrt/float_header_for_hexo_NexT.git Mist
 ```
   
 
-Rename` Mist` folder to ` Mist_without_float_haeder`  
-Rename`float_header_for_hexo_NexT` to ` Mist`  
+
+
 Done.  
 # 已知的问题 problems
 ~~1. `menu`栏在某段固定浏览器宽度（tablet）下不能做到上下对齐。原因未知。~~原来还有`desktop-large`这个大小  
