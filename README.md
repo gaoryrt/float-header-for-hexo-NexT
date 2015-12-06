@@ -11,15 +11,12 @@
 ***
 # 安装 install
 ```
-<<<<<<< HEAD
 cd YourPath/hexo/themes/next/source/css/_schemes
-git clone https://github.com/gaoryrt/float_header_for_hexo_NexT.git
-=======
-cd /hexo/themes/next/source/css/_schemes
-git clone https://github.com/gaoryrt/float_header_for_hexo_NexT.git Mist
->>>>>>> 79abd7cd9d6e705dc188ba52ce60b800cf253133
+git clone https://github.com/gaoryrt/float_header_for_hexo_NexT.git 
 ```
-  
+rename `Mist` to `WhateverYouWant`  
+and  
+rename `float_header_for_hexo_NexT` to `Mist`  
 
 
 
