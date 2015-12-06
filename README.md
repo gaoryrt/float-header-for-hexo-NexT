@@ -11,7 +11,7 @@
 ***
 # 安装 install
 ```
-cd /hexo/themes/next/source/css/_schemes
+cd YourPath/hexo/themes/next/source/css/_schemes
 git clone https://github.com/gaoryrt/float_header_for_hexo_NexT.git
 ```
   
@@ -26,6 +26,7 @@ Done.
 
 ***
 # 贴一下我自己的custom.styl文件
+强烈推荐修改这个`custom.styl`文件，别问为什么。  
 位置： `next/source/css/_variables/custom.styl`  
 ```
 $content-desktop = 600px  // 修改成你期望的宽度
