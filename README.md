@@ -1,3 +1,7 @@
+# *非特殊情况不再更新*  
+我没有继续使用NexT 主题了  
+所以这个项目暂时不再更新  
+有需求的话会继续跟进  
 # Float Header for Hexo NexT Mist theme
 在 NexT-Mist主题 的基础上做的一点点改动  
 把顶栏改成一直停靠在窗口上沿了 
